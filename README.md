@@ -6,7 +6,7 @@ The goal of this repo is to serve as a growing toolkit for validating impedance 
 
 ---
 
-## 📦 Current Features
+## Current Features
 
 ### Data Visualization Scripts
 
@@ -38,7 +38,7 @@ The goal is to build a reusable MATLAB toolkit for impedance experiments rather 
 
 ---
 
-## 👤 Author
+## Author
 
 Developed for bio-impedance validation and experimental analysis workflows.
 
